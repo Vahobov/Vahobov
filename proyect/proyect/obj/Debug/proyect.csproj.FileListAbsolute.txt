@@ -1,0 +1,11 @@
+C:\Users\aser\source\repos\proyect\proyect\bin\Debug\proyect.exe.config
+C:\Users\aser\source\repos\proyect\proyect\bin\Debug\proyect.exe
+C:\Users\aser\source\repos\proyect\proyect\bin\Debug\proyect.pdb
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.csproj.AssemblyReference.cache
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.csproj.SuggestedBindingRedirects.cache
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.Properties.Resources.resources
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.csproj.GenerateResource.cache
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.csproj.CoreCompileInputs.cache
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.exe
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.pdb
+C:\Users\aser\source\repos\proyect\proyect\obj\Debug\proyect.Form1.resources
